@@ -1,0 +1,33 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"rivertees"},
+{"type":"table","name":"completedpick","database":"rivertees","data":
+[
+{"FormID":"1","Date":"2018-11-17","lat":"0.000000","lng":"0.000000","LitterType":"Mostly empty soda cans and beers from reckless teenagers ","NoBags":"5","isGroup":"0","NoHoursSpent":"3","NoPeopleInvolved":"6","AdditionalDesc":"Had a lovely weekend","PhotoURL":"https:\/\/res.cloudinary.com\/rivertees\/image\/upload\/v1542881611\/samples\/landscapes\/nature-mountains.jpg","isApproved":"1"}
+]
+}
+,{"type":"table","name":"comppick","database":"rivertees","data":
+[
+{"SubmissionID":"17","title":"Mr","name":"test","phone":"","email":"","addDesc":"ew","date":"2019-02-12","lng":"-1.244764","lat":"54.569237","litter":"General Waste,Paper\/Cardboard","bag":"3","hour":"3","people":"3","photoURL":"uploads\/black_and_white.jpg"},
+{"SubmissionID":"18","title":"Mr","name":"test123","phone":"","email":"","addDesc":"","date":"2019-02-12","lng":"-1.424072","lat":"54.511028","litter":"Others,Plastic","bag":"6","hour":"5","people":"4","photoURL":"uploads\/dog1.jpg"},
+{"SubmissionID":"19","title":"Mrs","name":"ter","phone":"","email":"","addDesc":"","date":"2019-02-06","lng":"-1.242819","lat":"54.575609","litter":"Others,General Waste","bag":"3","hour":"5","people":"7","photoURL":"uploads\/dog1.jpg"}
+]
+}
+,{"type":"table","name":"inv_species","database":"rivertees","data":
+[
+{"title":"Mrs","name":"hope it works","phone":"071111111","email":"test@gmail.com","addDesc":"","date":"2019-02-21","lng":"-1.244437","lat":"54.557476","species":"American Signal Crayfish,Himalayan Balsam","photoURL":"uploads\/black_and_white.jpg","SpecID":"0"}
+]
+}
+,{"type":"table","name":"request","database":"rivertees","data":
+[
+{"RequestID":"55","title":"Mrs","name":"git","PhoneNumber":"","email":"","imgPath":"uploads\/dog1.jpg","Date":"2019-02-14","lat":"54.557476","lng":"-1.244437","LitterScale":"2","AdditionalDescription":"","isApproved":"0"},
+{"RequestID":"58","title":"Mrs","name":"heyy","PhoneNumber":"","email":"","imgPath":"uploads\/dog1.jpg","Date":"2019-02-21","lat":"54.557476","lng":"-1.244437","LitterScale":"3","AdditionalDescription":"","isApproved":"0"},
+{"RequestID":"60","title":"Mr","name":"","PhoneNumber":"","email":"","imgPath":"","Date":"2019-02-21","lat":"0.000000","lng":"0.000000","LitterScale":"0","AdditionalDescription":"","isApproved":"0"}
+]
+}
+,{"type":"table","name":"user","database":"rivertees","data":
+[
+{"UserID":"0","Username":"admin","Email":"James.Hunter@groundwork.org.uk","Password":"password","PhoneNumber":"0712578935","isRequest":"0"}
+]
+}
+]
